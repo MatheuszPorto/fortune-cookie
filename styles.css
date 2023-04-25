@@ -46,6 +46,12 @@ p {
   margin-bottom: 2rem;
 }
 
+.screen1 button {
+  cursor: pointer;
+  background: #FFF;
+  border: none;
+}
+
 /* Screen2 */
 
 .screen2 h4 {
@@ -73,6 +79,6 @@ p {
   transition: .2s;
 }
 
-button:hover {
+.screen2 button:hover {
   background: #ee8d05;
 }
